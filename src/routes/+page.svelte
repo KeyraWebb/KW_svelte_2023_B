@@ -1,9 +1,4 @@
-<script>
-    import Header from '$lib/Header.svelte';
-    import Footer from '$lib/Footer.svelte';
-</script>
 
-<Header/>
 <h2>HTML practice</h2>
 
 <ul>
@@ -18,5 +13,3 @@
 <div>
     <a href = "https://www.youtube.com/watch?v=dQw4w9WgXcQ" target = "_blank">Otago Polytechnic</a>
 </div>
-
-<Footer/>

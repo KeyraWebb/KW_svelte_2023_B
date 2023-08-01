@@ -1,9 +1,3 @@
-<script>
-    import Header from '$lib/Header.svelte';
-    import Footer from '$lib/Footer.svelte';
-</script>
-
-<Header/>
 
 <h1>
     Congrats! you have found my super secret page!
@@ -14,5 +8,3 @@
 </div>
 
 <a href="/">return</a>
-
-<Footer/>
