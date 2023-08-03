@@ -1,9 +1,13 @@
 <script>
   import Nav from "$lib/Nav.svelte";
+  
 </script>
 
+<style>
+
+</style>
+
 <header>
-    Hello, I am the Header
     <div>
         <Nav/>
     </div>

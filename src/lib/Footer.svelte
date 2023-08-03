@@ -1,3 +1,3 @@
 <footer>
-    This is the end of the page!
+    Made by Keyra Webb 
 </footer>

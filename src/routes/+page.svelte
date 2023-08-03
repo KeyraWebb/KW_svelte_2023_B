@@ -1,5 +1,5 @@
 
-<h2>HTML practice</h2>
+<h1>HTML practice</h1>
 
 <ul>
     <li>cat</li>
