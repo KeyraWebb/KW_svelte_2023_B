@@ -1,6 +1,7 @@
 
 
 body {
+    margin:0;
     background-color: black;
     color:rgb(218, 41, 41);
     font-family: Arial, Helvetica, sans-serif;
@@ -31,6 +32,14 @@ header a{
 
 header a:active{
     color:rgb(218, 41, 41);
+}
+
+footer{
+    text-align: center;
+}
+
+.mainPage{
+    margin: 5px;
 }
 
 .main{
