@@ -3,10 +3,6 @@
   
 </script>
 
-<style>
-
-</style>
-
 <header>
     <div>
         <Nav/>

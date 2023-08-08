@@ -3,9 +3,59 @@
 body {
     background-color: black;
     color:rgb(218, 41, 41);
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 h1{
     color: rgb(41, 218, 41);
     font-family: 'Bungee', sans-serif;
+}
+
+header{
+    background-color: rgb(41, 218, 41);
+    font-size: 50px;
+    font-family: 'Bungee', sans-serif;
+
+}
+
+header a{
+    font-weight: bold;
+    text-transform: uppercase;
+    text-decoration: none;
+    color: black;
+}
+
+.nav{
+    text-align: center;
+}
+
+header a:active{
+    color:rgb(218, 41, 41);
+}
+
+.main{
+    background-color: #146798;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.main h1{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    text-transform: uppercase;
+}
+
+.main p{
+    background-color: hotpink;
+    text-align: center;
+}
+
+.main ul{
+    list-style-type: upper-alpha;
+}
+
+div.footer{
+    font-size: 32px;
+    font-weight: bold;
+    font-style: italic;
 }
