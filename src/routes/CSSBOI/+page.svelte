@@ -13,5 +13,7 @@
         <div class="footer">
             Footer content
         </div>
+
+        <a href= "/CSSBOI2">next practice</a>
     </div>
 </div>

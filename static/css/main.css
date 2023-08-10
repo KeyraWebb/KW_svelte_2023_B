@@ -1,10 +1,14 @@
-
+/*default css*/
 
 body {
     margin:0;
     background-color: black;
     color:rgb(218, 41, 41);
     font-family: Arial, Helvetica, sans-serif;
+}
+
+.mainPage{
+    margin: 5px;
 }
 
 h1{
@@ -19,6 +23,8 @@ header{
 
 }
 
+/*Header*/
+
 header a{
     font-weight: bold;
     text-transform: uppercase;
@@ -26,21 +32,22 @@ header a{
     color: black;
 }
 
+header a:active{
+    color:rgb(218, 41, 41);
+}
 .nav{
     text-align: center;
 }
 
-header a:active{
-    color:rgb(218, 41, 41);
-}
+/*footer css*/
 
 footer{
     text-align: center;
 }
 
-.mainPage{
-    margin: 5px;
-}
+
+
+/*css for the css exercise page*/
 
 .main{
     background-color: #146798;
@@ -67,4 +74,17 @@ div.footer{
     font-size: 32px;
     font-weight: bold;
     font-style: italic;
+}
+
+/*css for excercise page 2*/
+
+.selective div:nth-of-type(3)
+{
+    color: green;
+}
+
+.selective div div:hover
+{
+    background-color: red;  
+    color: black;  
 }
