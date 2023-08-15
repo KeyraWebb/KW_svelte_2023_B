@@ -48,32 +48,45 @@ footer{
 
 
 /*css for the css exercise page*/
-
-.main{
-    background-color: #146798;
+.main
+{
     color: black;
     font-family: Arial, Helvetica, sans-serif;
 }
 
-.main h1{
-    color: white;
-    font-family: Arial, Helvetica, sans-serif;
-    text-transform: uppercase;
+.main  h1
+{
+    background: lightblue;
+    color: black; 
+    padding: 10px, 30px;
 }
-
-.main p{
-    background-color: hotpink;
-    text-align: center;
+.main p
+{ 
+    background: lightgreen;
+    margin: 15px;
+    border-width: 10px;
+    border-style: solid;
+    border-color: green;
 }
-
-.main ul{
-    list-style-type: upper-alpha;
+.main ul
+{
+    list-style-type: none;
+    padding-left: 0px;
+    margin-bottom: 0px;
 }
-
-div.footer{
-    font-size: 32px;
-    font-weight: bold;
-    font-style: italic;
+.main li
+{ 
+    background: lightsalmon; 
+    border-bottom-width: 10px;
+    border-bottom-style: solid;
+    border-bottom-color: white;
+    padding-left: 2px;
+}
+.main .footer
+{ 
+    background: lightslategray; 
+    padding: 20px;
+    margin-top: 0px;
 }
 
 /*css for excercise page 2*/
