@@ -6,6 +6,7 @@
     --dark-text:black;
     --header-font:'Bungee', sans-serif;
     --logo-font: 'Oswald', sans-serif;
+    --basic-padding: 30px;
 }
 
 
@@ -15,14 +16,6 @@ body {
     margin:0;
     background-color: var(--main-light);
     font-family: Arial, Helvetica, sans-serif;
-}
-
-.mainPage{
-    display: flex;
-    flex-wrap: wrap;
-    flex-direction: column;
-    align-items: center;
-    margin: 5px;
 }
 
 h1{
@@ -62,58 +55,19 @@ footer{
 }
 
 
-
-/*css for the css exercise page*/
-.main
-{
-    color: black;
-    font-family: Arial, Helvetica, sans-serif;
-}
-
-.main  h1
-{
-    background: lightblue;
-    color: black; 
-    padding: 10px, 30px;
-}
-.main p
-{ 
-    background: lightgreen;
-    margin: 15px;
-    border-width: 10px;
-    border-style: solid;
-    border-color: green;
-}
-.main ul
-{
-    list-style-type: none;
-    padding-left: 0px;
-    margin-bottom: 0px;
-}
-.main li
-{ 
-    background: lightsalmon; 
-    border-bottom-width: 10px;
-    border-bottom-style: solid;
-    border-bottom-color: white;
-    padding-left: 2px;
-}
-.main .footer
-{ 
-    background: lightslategray; 
-    padding: 20px;
-    margin-top: 0px;
-}
-
-/*css for excercise page 2*/
-
-.selective div:nth-of-type(3)
-{
-    color: green;
-}
-
-.selective div div:hover
-{
-    background-color: red;  
-    color: black;  
+.splashBanner{
+    width: 100%;
+    height: 1000px;
+    background-image: url(https://images.unsplash.com/photo-1448375240586-882707db888b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    color:var(--light-text);
+    font-family: var(--logo-font);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: left;
+    font-size: 200px;
+    padding: var(--basic-padding);
 }
