@@ -1,8 +1,19 @@
+/*css vars*/
+:root {
+    --main-dark:#94778B;
+    --main-light:#82D4BB;
+    --light-text:white;
+    --dark-text:black;
+    --header-font:'Bungee', sans-serif;
+    --logo-font: 'Oswald', sans-serif;
+}
+
+
 /*default css*/
 
 body {
     margin:0;
-    background-color: #82D4BB;
+    background-color: var(--main-light);
     font-family: Arial, Helvetica, sans-serif;
 }
 
@@ -15,36 +26,33 @@ body {
 }
 
 h1{
-    color:  #94778B;
-    font-family: 'Bungee', sans-serif;
+    color: var(--main-dark);
+    font-family: var(--header-font);
 }
 
 header{
-    background-color: #94778B;
+    background-color: var(--main-dark);
     font-size: 50px;
-    font-family: 'Bungee', sans-serif;
+    font-family: var(--logo-font);
     display: flex;
     justify-content: space-between;
+    padding: 20px 30px;
+    color: var(--light-text);
 }
 
 /*Header*/
-.hamburg{
 
-    padding-left: 30px;
-}
-.beep{
-
-    padding-right: 30px;
-}
 header a{
     font-weight: bold;
-    text-transform: uppercase;
     text-decoration: none;
-    color: black;
+}
+
+header a:visited{
+    color: var(--light-text);
 }
 
 header a:active{
-    color:rgb(218, 41, 41);
+    color:var(--main-light);
 }
 
 /*footer css*/
