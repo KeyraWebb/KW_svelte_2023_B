@@ -85,20 +85,31 @@ footer{
     display: grid;
     grid-template-columns: 1fr 1fr;
     grid-template-rows: 500px;
- }
-
-.infoGridItems{
-    display: flex;
-    align-items: center;
-    justify-items: center;
-    row-gap: 10px 20px;
-}
-
- .infoGrid p{
-    font-size: 30px;
-    text-align: left;
+    gap: 20px 20px;
  }
 
  .infoGrid img{
     height: 500px;
  }
+
+ .infoGridRight{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+ }
+
+ .infoGridLeft{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    flex-wrap: wrap;
+    align-items: end;
+ }
+
+.infoGridRight{
+    text-align: left;
+}
+
+.infoGridLeft{
+    text-align: right;
+}
