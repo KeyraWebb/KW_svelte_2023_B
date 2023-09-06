@@ -1,10 +1,12 @@
 
 <div class = "splashBanner">
-    <h>
-        Unlock your
-    </h>
-    <h>Adv'nturé</h>
-</div>        
+    <p>
+        Unlock your <br> Adv'nturé
+    </p>
+</div> 
+<div class ="infoGrid">
+
+</div>       
 
 
 
