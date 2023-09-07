@@ -133,3 +133,16 @@ footer{
     font-weight: bold;
     text-decoration: none;
  }
+ 
+ @media only screen and (max-width: 800px){
+    .infoGrid{
+        grid-template-columns: 100%;
+    }
+
+    .infoGridLeft{
+        grid-column-start: 1;
+    }
+    .infoGridRight{
+        grid-column-start: 1;
+    }
+ }
