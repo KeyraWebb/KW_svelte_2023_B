@@ -7,6 +7,8 @@
     --header-font:'Bungee', sans-serif;
     --logo-font: 'Oswald', sans-serif;
     --basic-padding: 30px;
+    --basic-font:'Quicksand', sans-serif;
+    --side-dark: #829298;
 }
 
 
@@ -15,7 +17,7 @@
 body {
     margin:0;
     background-color: var(--main-light);
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: var(--basic-font);
 }
 
 h1{
@@ -80,12 +82,15 @@ footer{
     color: var(--light-text);
     padding: var(--basic-padding);
 }
+
+/*front page information grid*/
+
  .infoGrid{
     padding: var(--basic-padding);
     display: grid;
-    grid-template-columns: 1fr 1fr;
-    grid-template-rows: 500px;
-    gap: 20px 20px;
+    grid-template-columns: 1fr 2fr 2fr 1fr;
+    grid-template-rows: repeat(500px);
+    gap: 50px;
  }
 
  .infoGrid img{
@@ -96,6 +101,8 @@ footer{
     display: flex;
     flex-direction: column;
     justify-content: center;
+    text-align: left;
+    grid-column-start: 3;
  }
 
  .infoGridLeft{
@@ -103,13 +110,26 @@ footer{
     flex-direction: column;
     justify-content: center;
     flex-wrap: wrap;
-    align-items: end;
+    align-content: flex-end;
+    text-align: right;
+    grid-column-start: 2;
  }
 
-.infoGridRight{
-    text-align: left;
-}
+ .infoGrid h2{
+    font-family: var(--logo-font);
+    font-size: 50px;
+    color: var(--main-dark);
+ }
 
-.infoGridLeft{
-    text-align: right;
-}
+ .infoGrid p{
+    font-family: var(--basic-font);
+    font-size: 25px;
+ }
+
+ .infoGrid a{
+    font-family: var(--logo-font);
+    color: var(--side-dark);
+    font-size: 25px;
+    font-weight: bold;
+    text-decoration: none;
+ }
