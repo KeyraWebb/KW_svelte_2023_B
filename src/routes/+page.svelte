@@ -3,6 +3,7 @@
     <p>
         Unlock your <br> Adv'nturé
     </p>
+    <a href = "/bookings/">Book Now</a>
 </div> 
 <div class ="infoGrid">
     <!-- <img class = "infoGridLeft" src = "../img/City.jpg" alt = "A cityscape"> -->
