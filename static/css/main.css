@@ -174,6 +174,7 @@ footer{
     display: flex;
     height: 500px;
     justify-content: space-around;
+    padding: var(--basic-padding);
 }
 
 .townCards div{
@@ -186,7 +187,6 @@ footer{
     background-repeat: no-repeat;
     background-size: cover;
     width: 400px;
-    margin: var(--basic-padding);
     border-radius: 25px;
 }
 h2.darkCard{
@@ -213,11 +213,13 @@ h2.darkCard{
 
     .townCards{
         display: grid;
+        padding: var(--basic-padding);
         grid-template-columns: 1fr 1fr;
         height: 1000px;
+        gap: var(--basic-padding);
     }
     .townCards div{
-        width: 50%;
+        width: 100%;
     }
  } 
 
@@ -253,6 +255,10 @@ h2.darkCard{
     .townCards{
         display: flex;
         flex-direction: column;
+    }
+
+    .townCards h2{
+        color: var(--light-text);
     }
  }
 
