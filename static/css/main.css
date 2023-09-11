@@ -166,9 +166,58 @@ footer{
     background-image: url("../img/overgrown-castle.jpg");
  }
  
+/*Settlements*/
+
+/*cards*/
+
+.townCards{
+    display: flex;
+    height: 500px;
+    justify-content: space-around;
+}
+
+.townCards div{
+    display: flex;
+    justify-content: center;
+    font-family: var(--logo-font);
+    font-size: 40px;
+    color: var(--main-dark);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 400px;
+    margin: var(--basic-padding);
+    border-radius: 25px;
+}
+h2.darkCard{
+    color: var(--light-text);
+}
+.shadowspellCard{
+    background-image: url("../img/overgrown-castle.jpg");
+}
+.shadowspellCard{
+    color: var(--light-text)
+}
+.fairedgeCard{
+    background-image: url("../img/City.jpg");
+}
+.tranmereCard{
+    background-image: url("../img/ForestSplash.jpg");
+}
+/*Reactiveness*/
+
  @media only screen and (max-width: 1500px){
     .splashBanner p{
         font-size: 150px;
+    }
+
+    .townCards{
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        height: 1000px;
+    }
+    .townCards div{
+        width: 50%;
     }
  } 
 
@@ -199,6 +248,11 @@ footer{
     }
     .infoGridRight{
         grid-column-start: 1;
+    }
+
+    .townCards{
+        display: flex;
+        flex-direction: column;
     }
  }
 
