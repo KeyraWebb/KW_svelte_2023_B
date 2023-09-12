@@ -188,7 +188,14 @@ footer{
     background-size: cover;
     width: 400px;
     border-radius: 25px;
+    transition: ease 2s;
 }
+
+.townCards div:hover{
+    background-size: 120%;
+    
+}
+
 h2.darkCard{
     color: var(--light-text);
 }
@@ -262,4 +269,4 @@ h2.darkCard{
     }
  }
 
- 
+
