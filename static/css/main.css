@@ -175,6 +175,7 @@ footer{
     height: 500px;
     justify-content: space-around;
     padding: var(--basic-padding);
+    gap: var(--basic-padding);
 }
 
 .townCards div{
@@ -183,17 +184,27 @@ footer{
     font-family: var(--logo-font);
     font-size: 40px;
     color: var(--main-dark);
+    width: 100%;
+    border-radius: 25px;
+    overflow: hidden;
+}
+
+.townCards div h2{
+    position: absolute;
+}
+
+
+.townCards div div{
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    width: 400px;
-    border-radius: 25px;
-    transition: ease 2s;
+    height: 100%;
+    width: 100%;
+    transition: ease 1s;
 }
 
-.townCards div:hover{
-    background-size: 120%;
-    
+.townCards div div:hover{
+    transform: scale(1.2);
 }
 
 h2.darkCard{
@@ -212,6 +223,13 @@ h2.darkCard{
     background-image: url("../img/ForestSplash.jpg");
 }
 /*Reactiveness*/
+
+@media only screen and (max-width: 1750px){
+    .townCards{
+        display: flex;
+        flex-direction: column;
+    }
+}
 
  @media only screen and (max-width: 1500px){
     .splashBanner p{
@@ -262,6 +280,11 @@ h2.darkCard{
     .townCards{
         display: flex;
         flex-direction: column;
+    }
+
+    .townCards div{
+        width: 100%;
+        height: 200px;
     }
 
     .townCards h2{
