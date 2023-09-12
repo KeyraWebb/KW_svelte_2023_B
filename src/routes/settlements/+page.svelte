@@ -9,10 +9,14 @@
     </div>
     <div>
         <div class = "silverwaldCard"></div>
-        <h2>Silverwald</h2>
+        <h2 class = "darkCard">Silverwald</h2>
     </div>
     <div>
         <div class = "tranmereCard"></div>
         <h2 class = "darkCard">Tran'meré</h2>
     </div>
+</div>
+<div class = article>
+    <h1>Settlements</h1>
+    <p>L'nturé has many fantastic settlements</p>
 </div>

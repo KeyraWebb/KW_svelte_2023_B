@@ -1,8 +1,8 @@
 
 <div class = "splashBanner">
-    <p>
+    <h1>
         Unlock your <br> Adv'nturé
-    </p>
+    </h1>
     <a href = "/bookings/">Book Now</a>
 </div> 
 <div class ="infoGrid">
