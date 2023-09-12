@@ -1,22 +1,26 @@
 <div class = "townCards">
     <div>
-        <div class = "shadowspellCard"></div>
+        <a class = "shadowspellCard" href="#shadowspell">&nbsp;</a>
         <h2 class = "darkCard">Shadowspell</h2>
     </div>
     <div>
-        <div class = "fairedgeCard"></div>
+        <a class = "fairedgeCard" href ="#fairedge">&nbsp;</a>
         <h2>Fairedge</h2>
     </div>
     <div>
-        <div class = "silverwaldCard"></div>
+        <a class = "silverwaldCard" href = "#silverwald">&nbsp;</a>
         <h2 class = "darkCard">Silverwald</h2>
     </div>
-    <div>
-        <div class = "tranmereCard"></div>
+    <div href = "#tranmere">
+        <a class = "tranmereCard" href = "#tranmere">&nbsp;</a>
         <h2 class = "darkCard">Tran'meré</h2>
     </div>
 </div>
-<div class = article>
+<div class = "article">
     <h1>Settlements</h1>
     <p>L'nturé has many fantastic settlements</p>
 </div>
+<div class = "article" id = "shadowspell"></div>
+<div class = "article" id = "fairedge"></div>
+<div class = "article" id = "silverwald"></div>
+<div class = "article" id = "tranmere"></div>
