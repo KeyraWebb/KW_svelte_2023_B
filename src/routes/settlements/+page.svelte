@@ -20,7 +20,15 @@
     <h1>Settlements</h1>
     <p>L'nturé has many fantastic settlements</p>
 </div>
-<div class = "article" id = "shadowspell"></div>
-<div class = "article" id = "fairedge"></div>
-<div class = "article" id = "silverwald"></div>
-<div class = "article" id = "tranmere"></div>
+<div class = "article" id = "shadowspell">
+    <h1>Shadowspell</h1>
+</div>
+<div class = "article" id = "fairedge">
+    <h1>Fairedge</h1>
+</div>
+<div class = "article" id = "silverwald">
+    <h1>Silverwald</h1>
+</div>
+<div class = "article" id = "tranmere">
+    <h1>Tran'meré</h1>
+</div>
