@@ -12,6 +12,9 @@
 
 
 /*default css*/
+a{
+    text-decoration: none;
+}
 
 html{
     scroll-behavior: smooth;
@@ -42,6 +45,12 @@ header{
     justify-content: space-between;
     padding: 20px 30px;
     color: var(--light-text);
+}
+
+h3{
+    color: var(--side-dark);
+    font-family: var(--logo-font);
+    font-size: 30px;
 }
 
 /*Header*/
