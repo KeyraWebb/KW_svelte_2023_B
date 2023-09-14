@@ -8,6 +8,7 @@
     --basic-padding: 30px;
     --basic-font:'Quicksand', sans-serif;
     --side-dark: #829298;
+    --main-darker:#6e5867;
 }
 
 
@@ -77,6 +78,20 @@ header a:active{
 
 #hiddenLinks{
     display: none;
+    padding: 0px;
+    overflow: hidden;
+    transition: ease 1s;
+    background-color: var(--main-dark);
+    font-family: var(--logo-font);
+    font-size: 30px;
+}
+
+#hiddenLinks a{
+    padding: var(--basic-padding);
+}
+
+#hiddenLinks a:hover{
+    background-color: var(--main-darker);
 }
 
 /*footer css*/
