@@ -1,19 +1,19 @@
 <div class = "townCards">
     <div>
         <a class = "shadowspellCard" href="#shadowspell">&nbsp;</a>
-        <h2 class = "darkCard">Shadowspell</h2>
+        <h2>Shadowspell</h2>
     </div>
     <div>
         <a class = "fairedgeCard" href ="#fairedge">&nbsp;</a>
-        <h2>Fairedge</h2>
+        <h2 class = "lightCard">Fairedge</h2>
     </div>
     <div>
         <a class = "silverwaldCard" href = "#silverwald">&nbsp;</a>
-        <h2 class = "darkCard">Silverwald</h2>
+        <h2>Silverwald</h2>
     </div>
     <div href = "#tranmere">
         <a class = "tranmereCard" href = "#tranmere">&nbsp;</a>
-        <h2 class = "darkCard">Tran'meré</h2>
+        <h2>Tran'meré</h2>
     </div>
 </div>
 <div class = "article">

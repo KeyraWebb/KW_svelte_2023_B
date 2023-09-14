@@ -187,6 +187,7 @@ footer{
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
+    border-radius: 25px;
  }
 
  .medievilCity{
@@ -219,7 +220,7 @@ footer{
     justify-content: center;
     font-family: var(--logo-font);
     font-size: 40px;
-    color: var(--main-dark);
+    color: var(--light-text);
     width: 100%;
     border-radius: 25px;
     overflow: hidden;
@@ -244,8 +245,8 @@ footer{
     transform: scale(1.2);
 }
 
-h2.darkCard{
-    color: var(--light-text);
+h2.lightCard{
+    color: var(--main-dark);
 }
 .shadowspellCard{
     background-image: url("../img/shadowspell.jpg");
@@ -258,6 +259,18 @@ h2.darkCard{
 }
 .silverwaldCard{
     background-image: url("../img/silverwald.jpg");
+}
+.deepwickCard{
+    background-image: url("../img/waterfall.jpg");
+}
+.norhurstCard{
+    background-image: url("../img/norhurst.jpg");
+}
+.xindareCard{
+    background-image: url("../img/xindare.jpg");
+}
+.lnaareCard{
+    background-image: url("../img/mountain.jpg");
 }
 
 /*articles*/
