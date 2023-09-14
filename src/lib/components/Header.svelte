@@ -5,9 +5,9 @@
 
 <header id = "top">
     <div class="hamburg">
-      <i class="fa-solid fa-bars"></i>
+      <Nav/>
     </div>
     <div class="beep">
-        <Nav/>
+      <a href="/">Visit L'nturé</a> 
     </div>
 </header>

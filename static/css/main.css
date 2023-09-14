@@ -14,6 +14,11 @@
 /*default css*/
 a{
     text-decoration: none;
+    color: var(--light-text);
+}
+
+a:visited{
+    color: var(--light-text);
 }
 
 html{
@@ -66,6 +71,12 @@ header a:visited{
 
 header a:active{
     color:var(--main-light);
+}
+
+/* Nav */
+
+#hiddenLinks{
+    display: none;
 }
 
 /*footer css*/
