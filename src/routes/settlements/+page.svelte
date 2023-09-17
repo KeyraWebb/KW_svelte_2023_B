@@ -41,6 +41,19 @@
 </div>
 <div class = "article" id = "tranmere">
     <h1>Tran'meré</h1>
-    <h3>Where You'll Stay</h3>
-    <h3>What You'll Do</h3>
+    <div class = "infoGrid">
+        <div class = "infoGridLeft"></div>
+        <div class = "infoGridRight">
+
+        </div>
+        <div class = "infoGridLeft">
+            <h3>Where You'll Stay</h3>
+        </div>
+        <div class = "infoGridRight"></div>
+        <div class = "infoGridLeft"></div>
+        <div class = "infoGridRight">
+            <h3>What You'll Do</h3>
+        </div>
+    </div>
+    
 </div>
