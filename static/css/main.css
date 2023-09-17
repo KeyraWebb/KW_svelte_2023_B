@@ -9,6 +9,7 @@
     --basic-font:'Quicksand', sans-serif;
     --side-dark: #829298;
     --main-darker:#6e5867;
+    --main-light-bg: #82C09A;
 }
 
 
@@ -56,7 +57,7 @@ header{
 h3{
     color: var(--side-dark);
     font-family: var(--logo-font);
-    font-size: 30px;
+    font-size: 50px;
 }
 
 /*Header*/
@@ -234,6 +235,10 @@ footer{
     border-radius: 25px;
  }
 
+ .placeholder{
+    background-image: url("../img/guess-ill-die.png");
+ }
+
  .medievilCity{
     background-image: url("../img/City.jpg");
  }
@@ -321,9 +326,17 @@ h2.lightCard{
 
 .article{
     padding: var(--basic-padding);
-    display: flex;
+    /* display: flex;
     flex-direction: column;
-    align-items: center;
+    align-items: center; */
+}
+
+.article h1{
+    font-size: 100px;
+    text-align: center;
+    background-color: var(--main-dark);
+    border-radius: 25px;
+    color: var(--light-text);
 }
 
 /*Reactiveness*/
