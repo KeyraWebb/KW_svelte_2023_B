@@ -1,19 +1,19 @@
 <div class = "townCards">
     <div>
+        <a href = "#shadowspell"><h2>Shadowspell</h2></a>
         <a class = "shadowspellCard" href="#shadowspell">&nbsp;</a>
-        <h2>Shadowspell</h2>
     </div>
     <div>
+        <a href = "#fairedge"><h2 class = "lightCard">Fairedge</h2></a>
         <a class = "fairedgeCard" href ="#fairedge">&nbsp;</a>
-        <h2 class = "lightCard">Fairedge</h2>
     </div>
     <div>
+        <a href = "#silverwald"><h2>Silverwald</h2></a>
         <a class = "silverwaldCard" href = "#silverwald">&nbsp;</a>
-        <h2>Silverwald</h2>
     </div>
     <div href = "#tranmere">
+        <a href = "#tranmere"><h2>Tran'meré</h2></a>
         <a class = "tranmereCard" href = "#tranmere">&nbsp;</a>
-        <h2>Tran'meré</h2>
     </div>
 </div>
 
@@ -91,5 +91,5 @@
             <h3>What You'll Do</h3>
         </div>
     </div>
-    
+    <a href ="/bookings/">Book Now</a>
 </div>
