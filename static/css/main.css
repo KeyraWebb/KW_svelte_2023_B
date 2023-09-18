@@ -195,24 +195,6 @@ footer{
     grid-column-start: 3;
  }
 
- /* .infoGridRight{
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    text-align: left;
-    grid-column-start: 3;
- }
-
- .infoGridLeft{
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    flex-wrap: wrap;
-    align-content: flex-end;
-    text-align: right;
-    grid-column-start: 2;
- } */
-
  .infoGrid h2{
     font-family: var(--logo-font);
     font-size: 50px;
@@ -274,11 +256,6 @@ footer{
     border-radius: 25px;
     overflow: hidden;
 }
-
-/* .townCards div h2{
-    position: absolute;
-} */
-
 
 .townCards div a:nth-of-type(2){
     background-position: center;
@@ -400,6 +377,7 @@ h2.lightCard{
         grid-column-start: 1;
     }
 
+
     .townCards{
         display: flex;
         flex-direction: column;
@@ -412,6 +390,16 @@ h2.lightCard{
 
     .townCards h2{
         color: var(--light-text);
+    }
+
+    .article h1{
+        font-size: 50px;
+    }
+ }
+
+ @media only screen and (max-width: 750px){
+    .infoGridImg{
+        height: 250px;
     }
  }
 
