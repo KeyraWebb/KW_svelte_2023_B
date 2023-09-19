@@ -39,15 +39,19 @@
         <div class = "infoGridImg shadowspellCard"></div>
         <div>
             <p>Shadowspell, the gem of the country, as well as the nation's capital, is a beautiful city with rich history and beautiful archetechture. 
-            Entertain yourself by exploring it's streets. Take something home from the famous marketplace in the central trapezoid.</p>
+            Entertain yourself by exploring it's streets. Take something home from the famous marketplace in the central heptagon.</p>
         </div>
         <div>
             <h3>Where You'll Stay</h3>
+            <p>The beautiful Evenblaze Tower served the Evenblaze family for many years, but has now been converted into a breathtaking hotel in the heart of the city. 
+                Enjoy the finest that Shadowspell has to offer, and a glimpse into the lives of L'nturé's nobility while also having the convienience of being 
+                merely a few minutes walk from the central heptagon and many other iconic landmarks.</p>
         </div>
         <div class = "infoGridImg shadowspellThirdPic"></div>
         <div class = "infoGridImg shadowspellSecondPic"></div>
         <div>
             <h3>What You'll Do</h3>
+            <p></p>
         </div>
     </div>
     <BookingButton/>
