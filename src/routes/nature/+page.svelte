@@ -16,3 +16,8 @@
         <a href = "#top" class = "lnaareCard">&nbsp;</a>
     </div>
 </div>
+
+<div class = "article">
+    <h1>Nature</h1>
+    <div class = "infoGrid"></div>
+</div>

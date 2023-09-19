@@ -118,6 +118,20 @@ footer a:visited{
     color: var(--light-text);
 }
 
+/*Booking Button*/
+
+.booking{
+    font-size: 50px;
+    background-color: var(--side-dark);
+    border-radius: 25px;
+    border-color: var(--main-dark);
+    padding: var(--basic-padding);
+    font-family: var(--logo-font);
+}
+
+.booking:active{
+    color:var(--main-light);
+}
 
 /*front page*/
 
@@ -320,6 +334,7 @@ h2.lightCard{
     display: flex;
     flex-direction: column;
     align-items: center;
+    padding-bottom: var(--basic-padding);
 }
 
 .article h1{

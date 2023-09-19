@@ -1,3 +1,7 @@
+<script>
+    import BookingButton from '$lib/components/BookingButton.svelte'
+</script>
+
 <div class = "townCards">
     <div>
         <a href = "#shadowspell"><h2>Shadowspell</h2></a>
@@ -19,10 +23,16 @@
 
 <div class = "article">
     <h1>Settlements</h1>
-    <p>L'nturé has many fantastic settlements, ripe for exploration and relaxation for the perfect holiday experience.<br><br>
-        With legendary hospitality, engaging tours and entertaining activities, you'll never run out of things to do. 
-    </p>
+    <div class = "infoGrid">
+        <div>
+            <p>L'nturé has many fantastic settlements, ripe for exploration and relaxation for the perfect holiday experience.<br><br>
+                With legendary hospitality, engaging tours and entertaining activities, you'll never run out of things to do. 
+            </p>
+        </div>
+    </div>
+    <div class = "infogridImg"></div>
 </div>
+
 <div class = "article" id = "shadowspell">
     <h1>Shadowspell</h1>
     <div class = "infoGrid">
@@ -40,6 +50,7 @@
             <h3>What You'll Do</h3>
         </div>
     </div>
+    <BookingButton/>
 </div>
 
 <div class = "article" id = "fairedge">
@@ -56,7 +67,9 @@
             <h3>What You'll Do</h3>
         </div>
     </div>
+    <BookingButton/>
 </div>
+
 <div class = "article" id = "silverwald">
     <h1>Silverwald</h1>
     <div class ="infoGrid">
@@ -72,9 +85,9 @@
             <h3>What You'll Do</h3>
         </div>
     </div>
-
-
+    <BookingButton/>
 </div>
+
 <div class = "article" id = "tranmere">
     <h1>Tran'meré</h1>
     <div class = "infoGrid">
@@ -91,5 +104,5 @@
             <h3>What You'll Do</h3>
         </div>
     </div>
-    <a href ="/bookings/">Book Now</a>
+    <BookingButton/>
 </div>
