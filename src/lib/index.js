@@ -1,8 +1,4 @@
 let dropdownNav = function(){
-    var x = document.getElementById("hiddenLinks");
-    if (x.style.height === "105px") {
-    x.style.height = "0px";
-    } else {
-    x.style.height = "105px";
-    }
+    var dropdown = document.getElementById("hiddenLinks");
+    dropdown.style.height = dropdown.style.height === "105px" ? "0px" : "105px";
 }
