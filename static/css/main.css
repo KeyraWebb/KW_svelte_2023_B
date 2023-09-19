@@ -78,13 +78,14 @@ header a:active{
 /* Nav */
 
 #hiddenLinks{
-    display: none;
+    display: flex;
     padding: 0px;
     overflow: hidden;
-    transition: ease 1s;
+    transition: 0.5s;
     background-color: var(--main-dark);
     font-family: var(--logo-font);
     font-size: 30px;
+    height: 0px;
 }
 
 #hiddenLinks a{

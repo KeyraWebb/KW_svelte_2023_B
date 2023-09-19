@@ -1,8 +1,8 @@
 let dropdownNav = function(){
     var x = document.getElementById("hiddenLinks");
-    if (x.style.display === "flex") {
-    x.style.display = "none";
+    if (x.style.height === "105px") {
+    x.style.height = "0px";
     } else {
-    x.style.display = "flex";
+    x.style.height = "105px";
     }
 }
