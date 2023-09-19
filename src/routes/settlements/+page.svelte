@@ -34,8 +34,8 @@
         <div>
             <h3>Where You'll Stay</h3>
         </div>
-        <div class = "infoGridImg placeholder"></div>
-        <div class = "infoGridImg placeholder"></div>
+        <div class = "infoGridImg shadowspellThirdPic"></div>
+        <div class = "infoGridImg shadowspellSecondPic"></div>
         <div>
             <h3>What You'll Do</h3>
         </div>

@@ -233,6 +233,15 @@ footer{
     background-image: url("../img/overgrown-castle.jpg");
  }
  
+ .shadowspellSecondPic{
+    background-image: url("../img/shadowspell_2.jpg");
+    background-position: 50% 75%;
+ }
+
+ .shadowspellThirdPic{
+    background-image: url("../img/shadowspell_3.jpg");
+    background-position: 50% 80%;
+ }
 
 /*Settlements page*/
 
