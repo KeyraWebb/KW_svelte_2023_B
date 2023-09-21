@@ -354,6 +354,18 @@ h2.lightCard{
     text-align: center;
 }
 
+/*gallery*/
+.gallery{
+    display: grid;
+    grid-template-columns: repeat(5,100px);
+}
+.gallery div{
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 300px;
+}
+
 /*Reactiveness*/
 
  @media only screen and (max-width: 1500px){
