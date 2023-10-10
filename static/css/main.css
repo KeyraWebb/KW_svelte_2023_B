@@ -368,6 +368,8 @@ h2.lightCard{
     grid-template-columns: repeat(3,1fr);
     gap: var(--basic-padding);
     padding: var(--basic-padding);
+    overflow: hidden;
+    align-self: stretch;
 }
 .gallery div{
     background-position: center;
@@ -443,6 +445,10 @@ h2.lightCard{
 
     .article h1{
         font-size: 50px;
+    }
+
+    .gallery{
+        grid-template-columns: 1fr;
     }
  }
 
