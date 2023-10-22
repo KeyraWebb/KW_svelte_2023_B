@@ -71,7 +71,7 @@
             <h3>Where You'll Stay</h3>
         </div>
         <div class = "infoGridImg placeholder"></div>
-        <div class = "infoGridImg placeholder"></div>
+        <div class = "infoGridImg fairedgeThirdPic"></div>
         <div>
             <h3>What You'll Do</h3>
         </div>
@@ -92,7 +92,7 @@
             <h3>Where You'll Stay</h3>
         </div>
         <div class = "infoGridImg placeholder"></div>
-        <div class = "infoGridImg placeholder"></div>
+        <div class = "infoGridImg silverwaldThirdPic"></div>
         <div>
             <h3>What You'll Do</h3>
         </div>

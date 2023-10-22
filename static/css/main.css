@@ -249,13 +249,21 @@ footer{
  }
  
  .shadowspellSecondPic{
-    background-image: url("../img/shadowspell_2.jpg");
-    background-position: 50% 75%;
+    background-image: url("../img/marketplace.jpg");
  }
 
  .shadowspellThirdPic{
     background-image: url("../img/shadowspell_3.jpg");
     background-position: 50% 80%;
+ }
+
+.fairedgeThirdPic{
+    background-image: url("../img/deerSillohette.jpg");
+    background-position: bottom;
+}
+
+ .silverwaldThirdPic{
+    background-image: url("../img/books.jpg");
  }
 
 /*Settlements page*/
