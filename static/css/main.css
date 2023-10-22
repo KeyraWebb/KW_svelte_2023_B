@@ -450,6 +450,11 @@ h2.lightCard{
     .gallery{
         grid-template-columns: 1fr;
     }
+
+    #hiddenLinks{
+        flex-direction: column;
+        align-items: center;
+    }
  }
 
  @media only screen and (max-width: 750px){
