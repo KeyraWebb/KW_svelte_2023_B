@@ -40,7 +40,7 @@
     </div>
     <div>
         <a href = "#ruins"><h2>Ruins</h2></a>
-        <a href = "#ruins"class = "placeholder">&nbsp;</a>
+        <a href = "#ruins"class = "overgrownCastle">&nbsp;</a>
     </div>
 </div>
 
