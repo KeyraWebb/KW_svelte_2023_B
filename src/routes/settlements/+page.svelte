@@ -51,7 +51,8 @@
         <div class = "infoGridImg shadowspellSecondPic"></div>
         <div>
             <h3>What You'll Do</h3>
-            <p></p>
+            <p>Roam our beautiful capitol and see all of our beautiful archetechture. 
+                Shop your heart out in our stunning central heptagon and indulge in the local delacacies in some of the finest restaurants our nation has to offer.</p>
         </div>
     </div>
     <BookingButton/>
@@ -61,7 +62,11 @@
     <h1>Fairedge</h1>
     <div class = "infoGrid">
         <div class = "infoGridImg fairedgeCard"></div>
-        <div></div>
+        <div>
+            <p>Nestled along the north edge of our central plains region, Xin'daré, is the quaint and beautiful town of Fairedge.
+                The town has come far from it's origins as a small hunting village, but still boasts some of the highest quality meats, furs and skins in the world.
+            </p>
+        </div>
         <div>
             <h3>Where You'll Stay</h3>
         </div>
@@ -79,6 +84,9 @@
     <div class ="infoGrid">
         <div class = "infoGridImg silverwaldCard"></div>
         <div>
+            <p>Long ago, the people of Silverwald were exceedingly wary of outsiders due to the many myths surrounding their home on the southern edge of Xin'daré.
+                But now, the town opens all visitors with open arms, eager to share their stories with all who seek to learn.
+            </p>
         </div>
         <div>
             <h3>Where You'll Stay</h3>
@@ -97,10 +105,15 @@
     <div class = "infoGrid">
         <div class = "infoGridImg tranmereCard"></div>
         <div>
-            
+            <p>Tran'meré is a gorgeous town located deep within the southern forest of Deepwick. 
+                It is a town bursting with culture and history and the finest hospitality in the world.
+                Truly one of the best destinations for those who seek a relaxing time surrounded by nature, or for curious minds to explore the rich knowledge hidden just underneath the surface.
+            </p> 
         </div>
         <div>
             <h3>Where You'll Stay</h3>
+            <p>The Guardian Inn is one of the most famous hotel and restaurants within all of L'nturé. 
+                Managed for tens of generations by the kind and generous Makiko family, it is a much beloved landmark by all who live there and all who have visited.</p>
         </div>
         <div class = "infoGridImg placeholder"></div>
         <div class = "infoGridImg placeholder"></div>
