@@ -257,6 +257,10 @@ footer{
     background-position: 50% 80%;
  }
 
+ .fairedgeSecondPic{
+    background-image: url("../img/hunting-lodge.jpg");
+ }
+
 .fairedgeThirdPic{
     background-image: url("../img/deerSillohette.jpg");
     background-position: bottom;
@@ -264,6 +268,10 @@ footer{
 
  .silverwaldThirdPic{
     background-image: url("../img/books.jpg");
+ }
+
+ .tranmereSecondPic{
+    background-image: url("../img/guardian-inn.jpg");
  }
 
 /*Settlements page*/

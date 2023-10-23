@@ -69,11 +69,19 @@
         </div>
         <div>
             <h3>Where You'll Stay</h3>
+            <p>Fairedge's historic hunting lodge has been lovingly preserved over the generations, and while it is no longer used by the hunters of old that kept the town fed,
+                it now is available for all who come to experience the town to stay in. With many modern comforts mixed seamlessly with the more rustic decor, you'll be sure to 
+                appreciate it's convienience and atmosphere during your trip.
+            </p>
         </div>
-        <div class = "infoGridImg placeholder"></div>
+        <div class = "infoGridImg fairedgeSecondPic"></div>
         <div class = "infoGridImg fairedgeThirdPic"></div>
         <div>
             <h3>What You'll Do</h3>
+            <p>As the hunting capitol of L'turé, there are many workshops for you to try your hand at the local trades.
+                With leatherworking and butchery classes available, as well as tours of all of the well preserved historic buildings in the old town included in your stay, 
+                you can make sure to appreciate Fairedge's fine history.
+            </p>
         </div>
     </div>
     <BookingButton/>
@@ -95,6 +103,10 @@
         <div class = "infoGridImg silverwaldThirdPic"></div>
         <div>
             <h3>What You'll Do</h3>
+            <p>Silverwald is absolutely packed full of all sorts of activities for adventurers and story-lovers alike.
+                You can visit the much loved folklore library, lovingly curated by locals who are eager to preserve their history and stories.
+                If you're more into the dramatic, sate your thirst for theatrics at the local Silver Bullet theater, where hundreds of years of vocal storytelling is continued for all to see.
+            </p>
         </div>
     </div>
     <BookingButton/>
@@ -115,7 +127,7 @@
             <p>The Guardian Inn is one of the most famous hotel and restaurants within all of L'nturé. 
                 Managed for tens of generations by the kind and generous Makiko family, it is a much beloved landmark by all who live there and all who have visited.</p>
         </div>
-        <div class = "infoGridImg placeholder"></div>
+        <div class = "infoGridImg tranmereSecondPic"></div>
         <div class = "infoGridImg placeholder"></div>
         <div>
             <h3>What You'll Do</h3>
