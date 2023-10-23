@@ -1,3 +1,4 @@
+<!--Api implementation-->
 <script>
   import { onMount } from "svelte";
   import GalleryImg from "../../lib/components/GalleryImg.svelte";
@@ -25,6 +26,8 @@
 
 </script>
 
+<!--Heading and Cards for easy navigation-->
+
 <div class = "article">
     <h1>Gallery</h1>
 </div>
@@ -44,6 +47,8 @@
     </div>
 </div>
 
+<!--Castle Images-->
+
 <div class = "article" id = "castles">
     <h1>Castles</h1>
     <div class = "gallery">
@@ -55,7 +60,7 @@
     </div>
 </div>
 
-
+<!--Forest Images-->
 
 <div class = "article" id = "forests">
     <h1>Forests</h1>
@@ -65,6 +70,8 @@
         {/each}
     </div>
 </div>
+
+<!--Ruin Images-->
 
 <div class = "article" id = "ruins">
     <h1>Ruins</h1>

@@ -1,3 +1,5 @@
+<!--Cards for easy navigation to articles-->
+
 <div class = "townCards">
     <div>
         <a href = "#top"><h2>Deepwick</h2></a>

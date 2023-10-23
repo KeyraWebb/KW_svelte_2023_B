@@ -1,3 +1,4 @@
+<!--Mainpage Splash Banner-->
 
 <div class = "splashBanner">
     <h1>
@@ -5,8 +6,10 @@
     </h1>
     <a href = "/bookings/">Book Now</a>
 </div> 
+
+<!--Main page information grid-->
+
 <div class ="infoGrid">
-    <!-- <img class = "infoGridLeft" src = "../img/City.jpg" alt = "A cityscape"> -->
     <div class = "infoGridImg medievilCity"></div>
     <div>
         <h2>Stunning Settlements</h2>
@@ -20,8 +23,6 @@
     </div>
     <div class = "infoGridImg waterfallPic"></div>
     <div class = "infoGridImg overgrownCastle"></div>
-    <!-- <img class = "infoGridRight" src = "../img/waterfall.jpg" alt = "waterfall in the middle of a forest">
-    <img class = "infoGridLeft" src = "../img/overgrown-castle.jpg" alt = "overgrown castle entrance"> -->
     <div>
         <h2>Discover History</h2>
         <p>Take our specialised tours or have a look around at historical landmarks yourself to get a phenomenal hands on experience with uncovering our countries rich past, and see how it affects our bright present.</p>

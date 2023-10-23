@@ -1,5 +1,7 @@
 <h1>Booking Form</h1>
 
+<!--Booking form for people to 'sign up' for packages-->
+
 <form>
     <label for = "fname">First Name: </label>
     <input type="text" id = "fname"><br>

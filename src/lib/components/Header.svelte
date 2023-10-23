@@ -3,7 +3,12 @@
   
 </script>
 
+<!--Header for the website-->
+
 <header id = "top">
+
+    <!--Hamburger button to toggle nav bar-->
+
     <div class="hamburg">
       <div class = navBtn>
         <a href="javascript:void(0);" onclick="dropdownNav()">
@@ -11,6 +16,9 @@
         </a>
     </div>
     </div>
+
+    <!--Logo / link back to main page-->
+
     <div class="beep">
       <a href="/">Visit L'nturé</a> 
     </div>

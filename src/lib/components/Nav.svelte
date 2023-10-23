@@ -1,3 +1,5 @@
+<!--Navigation bar for easy site navigation-->
+
 <div class="nav">
     <div class = "hideLinks" id = "hiddenLinks">
         <a href = "/" onclick="dropdownNav()">Home</a>

@@ -2,6 +2,8 @@
     import BookingButton from '$lib/components/BookingButton.svelte'
 </script>
 
+<!--Cards for quick navigation to articles-->
+
 <div class = "townCards">
     <div>
         <a href = "#shadowspell"><h2>Shadowspell</h2></a>
@@ -21,6 +23,8 @@
     </div>
 </div>
 
+<!--Short page introduction-->
+
 <div class = "article">
     <h1>Settlements</h1>
     <div class = "infoGrid">
@@ -32,6 +36,8 @@
     </div>
     <div class = "infogridImg"></div>
 </div>
+
+<!--Shadowspell article-->
 
 <div class = "article" id = "shadowspell">
     <h1>Shadowspell</h1>
@@ -57,6 +63,8 @@
     </div>
     <BookingButton/>
 </div>
+
+<!--Fairedge article-->
 
 <div class = "article" id = "fairedge">
     <h1>Fairedge</h1>
@@ -87,6 +95,8 @@
     <BookingButton/>
 </div>
 
+<!--Silverwald article-->
+
 <div class = "article" id = "silverwald">
     <h1>Silverwald</h1>
     <div class ="infoGrid">
@@ -111,6 +121,8 @@
     </div>
     <BookingButton/>
 </div>
+
+<!--Tran'meré article-->
 
 <div class = "article" id = "tranmere">
     <h1>Tran'meré</h1>

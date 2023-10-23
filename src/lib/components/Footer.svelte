@@ -1,3 +1,5 @@
+<!--Footer for the website-->
+
 <footer>
     Made by Keyra Webb 
 <a href = "#top">
