@@ -44,7 +44,7 @@
     <div class = "infoGrid">
         <div class = "infoGridImg shadowspellCard"></div>
         <div>
-            <p>Shadowspell, the gem of the country, as well as the nation's capital, is a beautiful city with rich history and beautiful archetechture. 
+            <p>Shadowspell, the gem of the country, as well as the nation's capital, is a beautiful city with rich history and beautiful architecture. 
             Entertain yourself by exploring it's streets. Take something home from the famous marketplace in the central heptagon.</p>
         </div>
         <div>
@@ -57,7 +57,7 @@
         <div class = "infoGridImg shadowspellSecondPic"></div>
         <div>
             <h3>What You'll Do</h3>
-            <p>Roam our beautiful capitol and see all of our beautiful archetechture. 
+            <p>Roam our beautiful capitol and see all of our beautiful architecture. 
                 Shop your heart out in our stunning central heptagon and indulge in the local delacacies in some of the finest restaurants our nation has to offer.</p>
         </div>
     </div>
@@ -86,7 +86,7 @@
         <div class = "infoGridImg fairedgeThirdPic"></div>
         <div>
             <h3>What You'll Do</h3>
-            <p>As the hunting capitol of L'turé, there are many workshops for you to try your hand at the local trades.
+            <p>As the hunting capitol of L'nturé, there are many workshops for you to try your hand at the local trades.
                 With leatherworking and butchery classes available, as well as tours of all of the well preserved historic buildings in the old town included in your stay, 
                 you can make sure to appreciate Fairedge's fine history.
             </p>
@@ -103,7 +103,7 @@
         <div class = "infoGridImg silverwaldCard"></div>
         <div>
             <p>Long ago, the people of Silverwald were exceedingly wary of outsiders due to the many myths surrounding their home on the southern edge of Xin'daré.
-                But now, the town opens all visitors with open arms, eager to share their stories with all who seek to learn.
+                But now, the town welcomes all visitors with open arms, eager to share their stories with all who seek to learn.
             </p>
         </div>
         <div>
