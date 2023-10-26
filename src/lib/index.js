@@ -10,3 +10,9 @@ let dropdownNav = function(){
     }   
 }
 
+let validateBooking = function(){
+    if (document.forms["bookingForm"]["fname"] = ""){
+        alert("First Name required");
+        return false;
+    }
+}

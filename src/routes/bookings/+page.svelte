@@ -3,7 +3,7 @@
 
     <!--Booking form for people to 'sign up' for packages-->
 
-    <form>
+    <form name="bookingForm" onsubmit="validateBooking()">
         <label for = "fname">First Name </label><br>
         <input type="text" id = "fname" placeholder="Your name.."><br>
         <label for = "lname">Last Name </label><br>
@@ -14,12 +14,14 @@
             <option value = "Shadowspell"> Shadowspell </option>
             <option value = "Fairedge"> Fairedge </option>
             <option value = "Silverwald"> Silverwald </option>
+            <option value = "Tranmere"> Tran'meré</option>
         </select>
             <div class = "dateSelect">
-            <label for = "startDate">Travel start date</label>
-            <label for = "endDate"> Travel end date</label>
-            <input type = "date" name = "startDate">
-            <input type = "date" name ="endDate">
-        </div>
+                <label for = "startDate">Travel start date</label>
+                <label for = "endDate"> Travel end date</label>
+                <input type = "date" name = "startDate">
+                <input type = "date" name ="endDate">
+            </div>
+        <input type = "submit" value = "Submit">
     </form>
 </div>
