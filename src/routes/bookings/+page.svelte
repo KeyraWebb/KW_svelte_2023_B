@@ -15,5 +15,11 @@
             <option value = "Fairedge"> Fairedge </option>
             <option value = "Silverwald"> Silverwald </option>
         </select>
+            <div class = "dateSelect">
+            <label for = "startDate">Travel start date</label>
+            <label for = "endDate"> Travel end date</label>
+            <input type = "date" name = "startDate">
+            <input type = "date" name ="endDate">
+        </div>
     </form>
 </div>
