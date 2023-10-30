@@ -1,6 +1,6 @@
 <script>
     export let url;
-    export let desc;
+
 </script>
 
 <!--Image component for the gallery-->

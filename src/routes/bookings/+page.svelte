@@ -3,7 +3,7 @@
 
     <!--Booking form for people to 'sign up' for packages-->
 
-    <form name="bookingForm" onsubmit="validateBooking()">
+    <form name="bookingForm" method="POST">
         <label for = "fname">First Name </label>
         <input type="text" id = "fname" placeholder="Your name..">
         <label for = "lname">Last Name </label>
