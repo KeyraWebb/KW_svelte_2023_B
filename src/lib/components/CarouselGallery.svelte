@@ -14,10 +14,8 @@
     console.log(images);
 </script>
 
-<button on:click = {previous}> previous </button>
+<button on:click = {previous}> <i class="fa-solid fa-angle-left"></i></button>
 
+<div style="background-image:url({images[index].urls.regular})"></div>
 
-<img src = {images[index].urls.regular} alt= {images[index].description}/>
-
-
-<button on:click = {next}> next </button>
+<button on:click = {next}> <i class="fa-solid fa-angle-right"></i> </button>

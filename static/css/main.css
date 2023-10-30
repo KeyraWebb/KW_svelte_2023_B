@@ -436,18 +436,35 @@ select{
 /*gallery*/
 .gallery{
     display: grid;
-    grid-template-columns: repeat(3,1fr);
+    grid-template-columns: 1fr 5fr 1fr;
     gap: var(--basic-padding);
     padding: var(--basic-padding);
     overflow: hidden;
+    background-color: var(--main-light-bg);
+    border-radius: 25px;
+    margin: var(--basic-padding);
     align-self: stretch;
 }
 .gallery div{
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    height: 500px;
+    height: 750px;
     border-radius: 25px;
+}
+
+.gallery button{
+    border-radius: 25px;
+    height:100px;
+    width: 100px;
+    align-self: center;
+    justify-self: center;
+    background-color: var(--main-dark);
+    color: var(--light-text);
+    border-color: var(--main-darker);
+    border-width: 5px;
+    border-style: solid;
+    font-size: 25px;
 }
 
 
@@ -532,11 +549,18 @@ select{
         flex-direction: column;
         align-items: center;
     }
+
+    .gallery div{
+        height: 500px;
+    }
  }
 
  @media only screen and (max-width: 750px){
     .infoGridImg{
         height: 250px;
+    }
+    .gallery div{
+        height: 300px;
     }
  }
 
