@@ -389,6 +389,10 @@ h2.lightCard{
     border-radius: 25px;
     overflow: hidden;
     padding: var(--basic-padding);
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+    align-items: center;
 }
 
 label{
@@ -407,6 +411,10 @@ input{
     overflow: hidden;
 }
 
+input[type=submit]{
+    width: 500px;
+}
+
 select{
     padding: 5px;
     font-size: 25px;
@@ -420,6 +428,7 @@ select{
 
 .dateSelect{
     display: grid;
+    align-self: stretch;
     grid-template-columns: 1fr 1fr;
     gap: 0px 25px;
 }

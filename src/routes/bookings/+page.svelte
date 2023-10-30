@@ -4,11 +4,11 @@
     <!--Booking form for people to 'sign up' for packages-->
 
     <form name="bookingForm" onsubmit="validateBooking()">
-        <label for = "fname">First Name </label><br>
-        <input type="text" id = "fname" placeholder="Your name.."><br>
-        <label for = "lname">Last Name </label><br>
-        <input type = "text" id = "lname"  placeholder="Your Last name.."><br>
-        <label for = "package">Select your travel package </label><br>
+        <label for = "fname">First Name </label>
+        <input type="text" id = "fname" placeholder="Your name..">
+        <label for = "lname">Last Name </label>
+        <input type = "text" id = "lname"  placeholder="Your Last name..">
+        <label for = "package">Select your travel package </label>
         <select id = "packages" name = "package">
             <option value = "Blank"></option>
             <option value = "Shadowspell"> Shadowspell </option>
