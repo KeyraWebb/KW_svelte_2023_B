@@ -1,7 +1,5 @@
 <!--Api implementation-->
 <script>
-  import { onMount } from "svelte";
-  import GalleryImg from "../../lib/components/GalleryImg.svelte";
   import CarouselGallery from "../../lib/components/CarouselGallery.svelte";
 
   export let data;

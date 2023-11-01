@@ -27,27 +27,76 @@
 <div class = "article" id = "deepwick">
     <h1>Deepwick</h1>
     <div class = "infoGrid">
-
+        <div class = "infoGridImg placeholder"></div>
+        <div>
+            <p>Deepwick is the thick forest that cradles the south of L'nturé. It has been long known to be full of secrets and treasures aplenty, ripe for anyone with 
+                an adventurous spirit to discover.</p> 
+        </div>
+        <div>
+            <h2>Hikes and Trails</h2>
+        </div>
+        <div class = "infoGridImg placeholder"></div>
+        <div class = "infoGridImg placeholder"></div>
+        <div></div>
     </div>
 </div>
 
 <div class = "article" id = "norhurst">
     <h1>Norhurst</h1>
     <div class = "infoGrid">
-
+        <div class = "infoGridImg placeholder"></div>
+        <div>
+            <p></p> 
+        </div>
+        <div>
+            <h2></h2>
+            <p></p>
+        </div>
+        <div class = "infoGridImg placeholder"></div>
+        <div class = "infoGridImg placeholder"></div>
+        <div>
+            <h2></h2>
+            <p></p>
+        </div>
     </div>
 </div>
 
 <div class = "article" id = "xindare">
     <h1>Xin'daré</h1>
     <div class = "infoGrid">
-
+        <div class = "infoGridImg placeholder"></div>
+        <div>
+            <p></p> 
+        </div>
+        <div>
+            <h2></h2>
+            <p></p>
+        </div>
+        <div class = "infoGridImg placeholder"></div>
+        <div class = "infoGridImg placeholder"></div>
+        <div>
+            <h2></h2>
+            <p></p>
+        </div>
     </div>
 </div>
 
 <div class = "article" id = "lnaareMountains">
     <h1>L'naaré Mountains</h1>
     <div class = "infoGrid">
-
+        <div class = "infoGridImg placeholder"></div>
+        <div>
+            <p></p> 
+        </div>
+        <div>
+            <h2></h2>
+            <p></p>
+        </div>
+        <div class = "infoGridImg placeholder"></div>
+        <div class = "infoGridImg placeholder"></div>
+        <div>
+            <h2></h2>
+            <p></p>
+        </div>
     </div>
 </div>
