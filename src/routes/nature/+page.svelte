@@ -1,3 +1,7 @@
+<script>
+    import BookingButton from '$lib/components/BookingButton.svelte'
+</script>
+
 <!--Cards for easy navigation to articles-->
 
 <div class = "townCards">
@@ -19,6 +23,8 @@
     </div>
 </div>
 
+<!--Articles for nature attraction information-->
+
 <div class = "article">
     <h1>Nature</h1>
     <div class = "infoGrid"></div>
@@ -39,6 +45,7 @@
         <div class = "infoGridImg placeholder"></div>
         <div></div>
     </div>
+    <BookingButton/>
 </div>
 
 <div class = "article" id = "norhurst">
@@ -59,6 +66,7 @@
             <p></p>
         </div>
     </div>
+    <BookingButton/>
 </div>
 
 <div class = "article" id = "xindare">
@@ -79,6 +87,7 @@
             <p></p>
         </div>
     </div>
+    <BookingButton/>
 </div>
 
 <div class = "article" id = "lnaareMountains">
@@ -99,4 +108,5 @@
             <p></p>
         </div>
     </div>
+    <BookingButton/>
 </div>
