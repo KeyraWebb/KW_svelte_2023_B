@@ -1,4 +1,14 @@
+    <!--Package and pricing-->
+    <div class = "article">
+        <h1>Packages and Pricing</h1>
+        <p>Thank you for taking interest in visiting our country! We have several packages available for you to get the best possible experience during your stay.</p>
+        <div>
+            <div></div>
+        </div>
+    </div>
+
 <div class=formSelect>
+
     <h1>Booking Form</h1>
 
     <!--Booking form for people to 'sign up' for packages-->
@@ -15,6 +25,12 @@
             <option value = "Fairedge"> Fairedge </option>
             <option value = "Silverwald"> Silverwald </option>
             <option value = "Tranmere"> Tran'meré</option>
+            <option value = "Deepwick">Deepwick</option>
+            <option value = "Norhurst">Norhurst</option>
+            <option value = "Xindaré">Xin'dar</option>
+            <option value = "LnaareMountains">L'naaré Mountains</option>
+            <option value = "Folklore">Folklore</option>
+            <option value = "History"> History</option>
         </select>
             <div class = "dateSelect">
                 <label for = "startDate">Travel start date</label>
