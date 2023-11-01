@@ -33,8 +33,9 @@
                 With legendary hospitality, engaging tours and entertaining activities, you'll never run out of things to do. 
             </p>
         </div>
+        <div class = "infoGridImg tranmereStreet"></div>
     </div>
-    <div class = "infogridImg"></div>
+    
 </div>
 
 <!--Shadowspell article-->
@@ -108,8 +109,11 @@
         </div>
         <div>
             <h3>Where You'll Stay</h3>
+            <p>The Storybook Motel is a rather recent edition to Silverwald's landscape, but it does a fantastic job of creating the perfect atmosphere that you need to
+                appreciate the tale-loving town. Stay in beautiful wooden cabins fitted with the most comfortable modern luxuries that the town has to offer.
+            </p>
         </div>
-        <div class = "infoGridImg placeholder"></div>
+        <div class = "infoGridImg silverwaldSecondPic"></div>
         <div class = "infoGridImg silverwaldThirdPic"></div>
         <div>
             <h3>What You'll Do</h3>
@@ -131,7 +135,8 @@
         <div>
             <p>Tran'meré is a gorgeous town located deep within the southern forest of Deepwick. 
                 It is a town bursting with culture and history and the finest hospitality in the world.
-                Truly one of the best destinations for those who seek a relaxing time surrounded by nature, or for curious minds to explore the rich knowledge hidden just underneath the surface.
+                Truly one of the best destinations for those who seek a relaxing time surrounded by nature, 
+                or for curious minds to explore the rich knowledge hidden just underneath the surface.
             </p> 
         </div>
         <div>
@@ -140,9 +145,13 @@
                 Managed for tens of generations by the kind and generous Makiko family, it is a much beloved landmark by all who live there and all who have visited.</p>
         </div>
         <div class = "infoGridImg tranmereSecondPic"></div>
-        <div class = "infoGridImg placeholder"></div>
+        <div class = "infoGridImg tranmereThirdPic"></div>
         <div>
             <h3>What You'll Do</h3>
+            <p>Tran'meré specialises in hospitality and relaxation. During your stay, you may partake in a wonderfully catered experience, with accompanying nature walks
+                and tales of the town's very own special history. The highlight of this experience is the wondorous wine-tasting tour, where many of the countries finest wines
+                have been brought together for your enjoyment. (NOTE: Wine-tasting activities only available for those over the legal drinking age.)
+            </p>
         </div>
     </div>
     <BookingButton/>

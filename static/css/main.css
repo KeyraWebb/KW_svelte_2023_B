@@ -248,6 +248,10 @@ footer{
     background-image: url("../img/overgrown-castle.jpg");
  }
  
+.tranmereStreet{
+    background-image: url("../img/tranmere-street.jpg");
+}
+
  .shadowspellSecondPic{
     background-image: url("../img/marketplace.jpg");
  }
@@ -266,12 +270,20 @@ footer{
     background-position: bottom;
 }
 
+.silverwaldSecondPic{
+    background-image: url("../img/motel-room.jpg");
+}
+
  .silverwaldThirdPic{
     background-image: url("../img/books.jpg");
  }
 
  .tranmereSecondPic{
     background-image: url("../img/guardian-inn.jpg");
+ }
+
+ .tranmereThirdPic{
+    background-image: url("../img/wine.jpg");
  }
 
 /*Settlements page*/
