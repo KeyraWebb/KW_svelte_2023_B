@@ -14,6 +14,5 @@ export async function load({fetch}){
     let dataRuins = await resRuins.json();
     let ruins = dataRuins.results;
 
-    console.log(castles);
     return {castles,forests,ruins};
 }

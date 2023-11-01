@@ -3,7 +3,7 @@
   import CarouselGallery from "../../lib/components/CarouselGallery.svelte";
 
   export let data;
-  console.log(data.castles);
+
 
     const BASE_URL = 'https://api.unsplash.com'
     const CLIENT_ID = 'yaxJAENJi6W_YyX_CUCizhfQ5qi-W9LAAa4KUnlI87c'
@@ -41,7 +41,7 @@
     </div>
     <div>
         <a href = "#forests"><h2>Forests</h2></a>
-        <a href = "#forests" class = "splashBanner">&nbsp;</a>
+        <a href = "#forests" class = "deepwickForest">&nbsp;</a>
     </div>
     <div>
         <a href = "#ruins"><h2>Ruins</h2></a>

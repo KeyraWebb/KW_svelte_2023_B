@@ -1,6 +1,6 @@
 <!--Splash Banner for the page-->
 
-<div class = "splashBanner">
+<div class = "splashBanner silverwaldThirdPic">
     <h1>About us</h1>
 </div>
 

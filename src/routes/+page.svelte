@@ -1,6 +1,6 @@
 <!--Mainpage Splash Banner-->
 
-<div class = "splashBanner">
+<div class = "splashBanner deepwickForest">
     <h1>
         Unlock your <br> Adv'nturé
     </h1>

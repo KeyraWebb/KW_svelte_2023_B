@@ -33,7 +33,7 @@
 <div class = "article" id = "deepwick">
     <h1>Deepwick</h1>
     <div class = "infoGrid">
-        <div class = "infoGridImg placeholder"></div>
+        <div class = "infoGridImg deepwickForest"></div>
         <div>
             <p>Deepwick is the thick forest that cradles the south of L'nturé. It has been long known to be full of secrets and treasures aplenty, ripe for anyone with 
                 an adventurous spirit to discover.</p> 
