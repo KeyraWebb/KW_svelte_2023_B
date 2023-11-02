@@ -36,14 +36,17 @@
         <div class = "infoGridImg deepwickForest"></div>
         <div>
             <p>Deepwick is the thick forest that cradles the south of L'nturé. It has been long known to be full of secrets and treasures aplenty, ripe for anyone with 
-                an adventurous spirit to discover.</p> 
+                an adventurous spirit to discover. Discover the hidden beauty of the deep forest with plenty of trails, hikes and camping sites perfect for immersing yourself in the untamed
+                beauty of southern L'nturé</p> 
         </div>
         <div>
             <h2>Hikes and Trails</h2>
         </div>
         <div class = "infoGridImg placeholder"></div>
         <div class = "infoGridImg placeholder"></div>
-        <div></div>
+        <div>
+            <h2>Camping</h2>
+        </div>
     </div>
     <BookingButton/>
 </div>
@@ -56,13 +59,13 @@
             <p></p> 
         </div>
         <div>
-            <h2></h2>
+            <h2>Hikes and Trails</h2>
             <p></p>
         </div>
         <div class = "infoGridImg placeholder"></div>
         <div class = "infoGridImg placeholder"></div>
         <div>
-            <h2></h2>
+            <h2>Camping</h2>
             <p></p>
         </div>
     </div>
@@ -77,13 +80,13 @@
             <p></p> 
         </div>
         <div>
-            <h2></h2>
+            <h2>Hikes and Trails</h2>
             <p></p>
         </div>
         <div class = "infoGridImg placeholder"></div>
         <div class = "infoGridImg placeholder"></div>
         <div>
-            <h2></h2>
+            <h2>Camping</h2>
             <p></p>
         </div>
     </div>
@@ -98,13 +101,13 @@
             <p></p> 
         </div>
         <div>
-            <h2></h2>
+            <h2>Hikes and Trails</h2>
             <p></p>
         </div>
         <div class = "infoGridImg placeholder"></div>
         <div class = "infoGridImg placeholder"></div>
         <div>
-            <h2></h2>
+            <h2>Camping</h2>
             <p></p>
         </div>
     </div>
