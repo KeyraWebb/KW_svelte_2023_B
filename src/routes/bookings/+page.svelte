@@ -13,7 +13,7 @@
 
     <!--Booking form for people to 'sign up' for packages-->
 
-    <form name="bookingForm" method="POST">
+    <form name="bookingForm">
         <label for = "fname">First Name </label>
         <input type="text" id = "fname" placeholder="Your name..">
         <label for = "lname">Last Name </label>
@@ -27,7 +27,7 @@
             <option value = "Tranmere"> Tran'meré</option>
             <option value = "Deepwick">Deepwick</option>
             <option value = "Norhurst">Norhurst</option>
-            <option value = "Xindaré">Xin'dar</option>
+            <option value = "Xindare">Xin'daré</option>
             <option value = "LnaareMountains">L'naaré Mountains</option>
             <option value = "Folklore">Folklore</option>
             <option value = "History"> History</option>

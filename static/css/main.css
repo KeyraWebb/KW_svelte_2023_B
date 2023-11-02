@@ -527,6 +527,11 @@ select{
     .infoGrid div:nth-of-type(odd){
         grid-column-start: 1;
     }
+
+    .infoGrid div p, .infoGrid div h3{
+        text-align: left;
+    }
+
     .infoGrid div:nth-of-type(even){
         grid-column-start: 1;
     }
@@ -535,6 +540,8 @@ select{
     .townCards{
         display: flex;
         flex-direction: column;
+        justify-content: flex-start;
+        height: 100%;
     }
 
     .townCards div{
