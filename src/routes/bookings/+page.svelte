@@ -15,9 +15,9 @@
 
     <form name="bookingForm">
         <label for = "fname">First Name </label>
-        <input type="text" id = "fname" placeholder="Your name..">
+        <input type="text" id = "fname" placeholder="Your name.." required>
         <label for = "lname">Last Name </label>
-        <input type = "text" id = "lname"  placeholder="Your Last name..">
+        <input type = "text" id = "lname"  placeholder="Your Last name.." required>
         <label for = "package">Select your travel package </label>
         <select id = "packages" name = "package">
             <option value = "Blank"></option>
