@@ -4,12 +4,6 @@ This is a website project created for BIT Web 1 in Semester two of 2023. It is a
 
 All photos are from unsplash.com
 
-## Inspiration Sites
-
-https://www.australia.com/en-nz
-
-https://www.newzealand.com/int/
-
 ## Planned/Future features
 
 - Content on the Nature and Culture pages
