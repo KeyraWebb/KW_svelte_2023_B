@@ -42,8 +42,8 @@
         <div>
             <h2>Hikes and Trails</h2>
         </div>
-        <div class = "infoGridImg placeholder"></div>
-        <div class = "infoGridImg placeholder"></div>
+        <div class = "infoGridImg deepwickCard"></div>
+        <div class = "infoGridImg deepwickThirdPic"></div>
         <div>
             <h2>Camping</h2>
         </div>
@@ -54,7 +54,7 @@
 <div class = "article" id = "norhurst">
     <h1>Norhurst</h1>
     <div class = "infoGrid">
-        <div class = "infoGridImg placeholder"></div>
+        <div class = "infoGridImg norhurstCard"></div>
         <div>
             <p></p> 
         </div>
@@ -62,8 +62,8 @@
             <h2>Hikes and Trails</h2>
             <p></p>
         </div>
-        <div class = "infoGridImg placeholder"></div>
-        <div class = "infoGridImg placeholder"></div>
+        <div class = "infoGridImg norhurstSecondPic"></div>
+        <div class = "infoGridImg norhurstThirdPic"></div>
         <div>
             <h2>Camping</h2>
             <p></p>
@@ -75,7 +75,7 @@
 <div class = "article" id = "xindare">
     <h1>Xin'daré</h1>
     <div class = "infoGrid">
-        <div class = "infoGridImg placeholder"></div>
+        <div class = "infoGridImg xindareCard"></div>
         <div>
             <p></p> 
         </div>
@@ -83,8 +83,8 @@
             <h2>Hikes and Trails</h2>
             <p></p>
         </div>
-        <div class = "infoGridImg placeholder"></div>
-        <div class = "infoGridImg placeholder"></div>
+        <div class = "infoGridImg fairedgeThirdPic"></div>
+        <div class = "infoGridImg xindareThirdPic"></div>
         <div>
             <h2>Camping</h2>
             <p></p>
@@ -96,7 +96,7 @@
 <div class = "article" id = "lnaareMountains">
     <h1>L'naaré Mountains</h1>
     <div class = "infoGrid">
-        <div class = "infoGridImg placeholder"></div>
+        <div class = "infoGridImg lnaareCard"></div>
         <div>
             <p></p> 
         </div>
@@ -104,8 +104,8 @@
             <h2>Hikes and Trails</h2>
             <p></p>
         </div>
-        <div class = "infoGridImg placeholder"></div>
-        <div class = "infoGridImg placeholder"></div>
+        <div class = "infoGridImg lnaareSecondPic"></div>
+        <div class = "infoGridImg lnaareThirdPic"></div>
         <div>
             <h2>Camping</h2>
             <p></p>
