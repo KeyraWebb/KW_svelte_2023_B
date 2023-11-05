@@ -7,7 +7,7 @@
         </div>
         <div>
             <h2>Folklore</h2>
-            <p></p>
+            <p>L'nturé prides itself on our rich folklore, stemming from hundreds of years of vocal tradition.</p>
         </div>
         <div class = "infoGridImg placeholder"></div>
         <div class = "infoGridImg placeholder"></div>
