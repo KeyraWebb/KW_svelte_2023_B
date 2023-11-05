@@ -7,7 +7,8 @@
     }
 
     let previous = function(){
-        index = (index - 1) % images.length;
+        index--;
+        if (index < 0) index = images.length - 1;
     }
 
     console.log(images[index]);
