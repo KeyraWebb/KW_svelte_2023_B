@@ -27,7 +27,12 @@
 
 <div class = "article">
     <h1>Nature</h1>
-    <div class = "infoGrid"></div>
+    <div class = "infoGrid">
+        <div>
+            <p>Vivamus gravida aliquam commodo. Nullam tristique fringilla imperdiet. Praesent in mattis dolor. Cras eget lacus vitae nibh pretium rhoncus. Vivamus elementum faucibus eros sit amet vehicula. Praesent lacinia neque scelerisque sapien vulputate, eu fringilla risus consectetur. Nam quis justo mauris.</p>
+        </div>
+        <div class = "infoGridImg "></div>
+    </div>
 </div>
 
 <div class = "article" id = "deepwick">
@@ -41,11 +46,13 @@
         </div>
         <div>
             <h2>Hikes and Trails</h2>
+            <p>Vivamus gravida aliquam commodo. Nullam tristique fringilla imperdiet. Praesent in mattis dolor. Cras eget lacus vitae nibh pretium rhoncus. Vivamus elementum faucibus eros sit amet vehicula. Praesent lacinia neque scelerisque sapien vulputate, eu fringilla risus consectetur. Nam quis justo mauris.</p>
         </div>
         <div class = "infoGridImg deepwickCard"></div>
         <div class = "infoGridImg deepwickThirdPic"></div>
         <div>
             <h2>Camping</h2>
+            <p>Vivamus gravida aliquam commodo. Nullam tristique fringilla imperdiet. Praesent in mattis dolor. Cras eget lacus vitae nibh pretium rhoncus. Vivamus elementum faucibus eros sit amet vehicula. Praesent lacinia neque scelerisque sapien vulputate, eu fringilla risus consectetur. Nam quis justo mauris.</p>
         </div>
     </div>
     <BookingButton/>
@@ -56,17 +63,17 @@
     <div class = "infoGrid">
         <div class = "infoGridImg norhurstCard"></div>
         <div>
-            <p></p> 
+            <p>Vivamus gravida aliquam commodo. Nullam tristique fringilla imperdiet. Praesent in mattis dolor. Cras eget lacus vitae nibh pretium rhoncus. Vivamus elementum faucibus eros sit amet vehicula. Praesent lacinia neque scelerisque sapien vulputate, eu fringilla risus consectetur. Nam quis justo mauris.</p> 
         </div>
         <div>
             <h2>Hikes and Trails</h2>
-            <p></p>
+            <p>Vivamus gravida aliquam commodo. Nullam tristique fringilla imperdiet. Praesent in mattis dolor. Cras eget lacus vitae nibh pretium rhoncus. Vivamus elementum faucibus eros sit amet vehicula. Praesent lacinia neque scelerisque sapien vulputate, eu fringilla risus consectetur. Nam quis justo mauris.</p>
         </div>
         <div class = "infoGridImg norhurstSecondPic"></div>
         <div class = "infoGridImg norhurstThirdPic"></div>
         <div>
             <h2>Camping</h2>
-            <p></p>
+            <p>Vivamus gravida aliquam commodo. Nullam tristique fringilla imperdiet. Praesent in mattis dolor. Cras eget lacus vitae nibh pretium rhoncus. Vivamus elementum faucibus eros sit amet vehicula. Praesent lacinia neque scelerisque sapien vulputate, eu fringilla risus consectetur. Nam quis justo mauris.</p>
         </div>
     </div>
     <BookingButton/>
@@ -77,17 +84,17 @@
     <div class = "infoGrid">
         <div class = "infoGridImg xindareCard"></div>
         <div>
-            <p></p> 
+            <p>Vivamus gravida aliquam commodo. Nullam tristique fringilla imperdiet. Praesent in mattis dolor. Cras eget lacus vitae nibh pretium rhoncus. Vivamus elementum faucibus eros sit amet vehicula. Praesent lacinia neque scelerisque sapien vulputate, eu fringilla risus consectetur. Nam quis justo mauris.</p> 
         </div>
         <div>
             <h2>Hikes and Trails</h2>
-            <p></p>
+            <p>Vivamus gravida aliquam commodo. Nullam tristique fringilla imperdiet. Praesent in mattis dolor. Cras eget lacus vitae nibh pretium rhoncus. Vivamus elementum faucibus eros sit amet vehicula. Praesent lacinia neque scelerisque sapien vulputate, eu fringilla risus consectetur. Nam quis justo mauris.</p>
         </div>
         <div class = "infoGridImg fairedgeThirdPic"></div>
         <div class = "infoGridImg xindareThirdPic"></div>
         <div>
             <h2>Camping</h2>
-            <p></p>
+            <p>Vivamus gravida aliquam commodo. Nullam tristique fringilla imperdiet. Praesent in mattis dolor. Cras eget lacus vitae nibh pretium rhoncus. Vivamus elementum faucibus eros sit amet vehicula. Praesent lacinia neque scelerisque sapien vulputate, eu fringilla risus consectetur. Nam quis justo mauris.</p>
         </div>
     </div>
     <BookingButton/>
@@ -98,17 +105,17 @@
     <div class = "infoGrid">
         <div class = "infoGridImg lnaareCard"></div>
         <div>
-            <p></p> 
+            <p>Vivamus gravida aliquam commodo. Nullam tristique fringilla imperdiet. Praesent in mattis dolor. Cras eget lacus vitae nibh pretium rhoncus. Vivamus elementum faucibus eros sit amet vehicula. Praesent lacinia neque scelerisque sapien vulputate, eu fringilla risus consectetur. Nam quis justo mauris.</p> 
         </div>
         <div>
             <h2>Hikes and Trails</h2>
-            <p></p>
+            <p>Vivamus gravida aliquam commodo. Nullam tristique fringilla imperdiet. Praesent in mattis dolor. Cras eget lacus vitae nibh pretium rhoncus. Vivamus elementum faucibus eros sit amet vehicula. Praesent lacinia neque scelerisque sapien vulputate, eu fringilla risus consectetur. Nam quis justo mauris.</p>
         </div>
         <div class = "infoGridImg lnaareSecondPic"></div>
         <div class = "infoGridImg lnaareThirdPic"></div>
         <div>
             <h2>Camping</h2>
-            <p></p>
+            <p>Vivamus gravida aliquam commodo. Nullam tristique fringilla imperdiet. Praesent in mattis dolor. Cras eget lacus vitae nibh pretium rhoncus. Vivamus elementum faucibus eros sit amet vehicula. Praesent lacinia neque scelerisque sapien vulputate, eu fringilla risus consectetur. Nam quis justo mauris.</p>
         </div>
     </div>
     <BookingButton/>

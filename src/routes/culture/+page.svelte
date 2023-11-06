@@ -13,6 +13,7 @@
         <div class = "infoGridImg overgrownCastle"></div>
         <div>
             <h2>History</h2>
+            <p>Vivamus gravida aliquam commodo. Nullam tristique fringilla imperdiet. Praesent in mattis dolor. Cras eget lacus vitae nibh pretium rhoncus. Vivamus elementum faucibus eros sit amet vehicula. Praesent lacinia neque scelerisque sapien vulputate, eu fringilla risus consectetur. Nam quis justo mauris.</p>
         </div>
     </div>
 </div>
