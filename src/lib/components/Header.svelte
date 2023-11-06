@@ -11,9 +11,7 @@
 
     <div class="hamburg">
       <div class = navBtn>
-        <a href="javascript:void(0);" onclick="dropdownNav()">
-            <i class="fa-solid fa-bars"></i>
-        </a>
+        <button on:click = {dropdownNav}><i class="fa-solid fa-bars"></i></button>
     </div>
     </div>
 

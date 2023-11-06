@@ -75,6 +75,21 @@ header a:active{
     color:var(--main-light);
 }
 
+header button{
+    background: none;
+    border: none;
+    color: var(--light-text);
+    font-size: 50px;
+}
+
+header button:hover{
+    cursor: pointer;
+}
+
+header button:active{
+    color: var(--main-light);
+}
+
 /* Nav */
 
 #hiddenLinks{
