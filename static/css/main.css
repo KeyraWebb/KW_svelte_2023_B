@@ -510,6 +510,9 @@ select{
     cursor: pointer;
 }
 
+.gallery button:active{
+    background-color: var(--main-darker);
+}
 
 /*Reactiveness*/
 
