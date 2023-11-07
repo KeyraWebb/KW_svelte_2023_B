@@ -45,7 +45,7 @@
         <div class = "infoGridImg placeholder"></div>
         <div></div>
     </div>
-    <BookingButton/>
+    <BookingButton packageSelect = "Deepwick"/>
 </div>
 
 <div class = "article" id = "norhurst">
@@ -66,7 +66,7 @@
             <p></p>
         </div>
     </div>
-    <BookingButton/>
+    <BookingButton packageSelect = "Norhurst"/>
 </div>
 
 <div class = "article" id = "xindare">
@@ -87,7 +87,7 @@
             <p></p>
         </div>
     </div>
-    <BookingButton/>
+    <BookingButton packageSelect = "Xin'daré"/>
 </div>
 
 <div class = "article" id = "lnaareMountains">
@@ -108,5 +108,5 @@
             <p></p>
         </div>
     </div>
-    <BookingButton/>
+    <BookingButton packageSelect = "L'naaré Mountains"/>
 </div>

@@ -1,4 +1,23 @@
-    <!--Package and pricing-->
+  <script>
+    export let data;
+
+    let locations = [
+        "Shadowspell",
+        "Fairedge",
+        "Silverwald",
+        "Tran'meré",
+        "Deepwick",
+        "Norhurst",
+        "Xin'daré",
+        "L'naaré Mountains",
+        "Folklore",
+        "History"
+    ];
+
+    let packageSelect = data.packageSelect;
+  </script>
+  
+  <!--Package and pricing-->
     <div class = "article">
         <h1>Packages and Pricing</h1>
         <p>Thank you for taking interest in visiting our country! We have several packages available for you to get the best possible experience during your stay.</p>
@@ -21,16 +40,9 @@
         <label for = "package">Select your travel package </label>
         <select id = "packages" name = "package">
             <option value = "Blank"></option>
-            <option value = "Shadowspell"> Shadowspell </option>
-            <option value = "Fairedge"> Fairedge </option>
-            <option value = "Silverwald"> Silverwald </option>
-            <option value = "Tranmere"> Tran'meré</option>
-            <option value = "Deepwick">Deepwick</option>
-            <option value = "Norhurst">Norhurst</option>
-            <option value = "Xindare">Xin'daré</option>
-            <option value = "LnaareMountains">L'naaré Mountains</option>
-            <option value = "Folklore">Folklore</option>
-            <option value = "History"> History</option>
+            {#each locations as location}
+                <option value = "location" selected={packageSelect === location}> {location} </option>
+            {/each}
         </select>
             <div class = "dateSelect">
                 <label for = "startDate">Travel start date</label>

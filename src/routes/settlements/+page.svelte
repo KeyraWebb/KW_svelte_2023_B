@@ -62,7 +62,7 @@
                 Shop your heart out in our stunning central heptagon and indulge in the local delacacies in some of the finest restaurants our nation has to offer.</p>
         </div>
     </div>
-    <BookingButton/>
+    <BookingButton packageSelect = "Shadowspell"/>
 </div>
 
 <!--Fairedge article-->
@@ -93,7 +93,7 @@
             </p>
         </div>
     </div>
-    <BookingButton/>
+    <BookingButton packageSelect = "Fairedge"/>
 </div>
 
 <!--Silverwald article-->
@@ -123,7 +123,7 @@
             </p>
         </div>
     </div>
-    <BookingButton/>
+    <BookingButton packageSelect = "Silverwald"/>
 </div>
 
 <!--Tran'meré article-->
@@ -154,5 +154,5 @@
             </p>
         </div>
     </div>
-    <BookingButton/>
+    <BookingButton packageSelect = "Tran'meré"/>
 </div>
