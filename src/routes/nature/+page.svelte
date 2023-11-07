@@ -55,7 +55,7 @@
             <p>Vivamus gravida aliquam commodo. Nullam tristique fringilla imperdiet. Praesent in mattis dolor. Cras eget lacus vitae nibh pretium rhoncus. Vivamus elementum faucibus eros sit amet vehicula. Praesent lacinia neque scelerisque sapien vulputate, eu fringilla risus consectetur. Nam quis justo mauris.</p>
         </div>
     </div>
-    <BookingButton/>
+    <BookingButton packageSelect = "Deepwick"/>
 </div>
 
 <div class = "article" id = "norhurst">
@@ -76,7 +76,7 @@
             <p>Vivamus gravida aliquam commodo. Nullam tristique fringilla imperdiet. Praesent in mattis dolor. Cras eget lacus vitae nibh pretium rhoncus. Vivamus elementum faucibus eros sit amet vehicula. Praesent lacinia neque scelerisque sapien vulputate, eu fringilla risus consectetur. Nam quis justo mauris.</p>
         </div>
     </div>
-    <BookingButton/>
+    <BookingButton packageSelect = "Norhurst"/>
 </div>
 
 <div class = "article" id = "xindare">
@@ -97,7 +97,7 @@
             <p>Vivamus gravida aliquam commodo. Nullam tristique fringilla imperdiet. Praesent in mattis dolor. Cras eget lacus vitae nibh pretium rhoncus. Vivamus elementum faucibus eros sit amet vehicula. Praesent lacinia neque scelerisque sapien vulputate, eu fringilla risus consectetur. Nam quis justo mauris.</p>
         </div>
     </div>
-    <BookingButton/>
+    <BookingButton packageSelect = "Xin'daré"/>
 </div>
 
 <div class = "article" id = "lnaareMountains">
@@ -118,5 +118,5 @@
             <p>Vivamus gravida aliquam commodo. Nullam tristique fringilla imperdiet. Praesent in mattis dolor. Cras eget lacus vitae nibh pretium rhoncus. Vivamus elementum faucibus eros sit amet vehicula. Praesent lacinia neque scelerisque sapien vulputate, eu fringilla risus consectetur. Nam quis justo mauris.</p>
         </div>
     </div>
-    <BookingButton/>
+    <BookingButton packageSelect = "L'naaré Mountains"/>
 </div>
