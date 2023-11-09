@@ -192,7 +192,7 @@ footer{
     padding: var(--basic-padding);
 }
 
-/*front page information grid*/
+/*Info grid*/
 
  .infoGrid{
     padding: var(--basic-padding);
@@ -246,87 +246,7 @@ footer{
     border-radius: 25px;
  }
 
- .placeholder{
-    background-image: url("../img/guess-ill-die.png");
- }
-
- .medievilCity{
-    background-image: url("../img/City.jpg");
- }
-
- .waterfallPic{
-    background-image: url("../img/waterfall.jpg");
- }
-
- .overgrownCastle{
-    background-image: url("../img/overgrown-castle.jpg");
- }
- 
-.tranmereStreet{
-    background-image: url("../img/tranmere-street.jpg");
-}
-
- .shadowspellSecondPic{
-    background-image: url("../img/marketplace.jpg");
- }
-
- .shadowspellThirdPic{
-    background-image: url("../img/shadowspell_3.jpg");
-    background-position: 50% 80%;
- }
-
- .fairedgeSecondPic{
-    background-image: url("../img/hunting-lodge.jpg");
- }
-
-.fairedgeThirdPic{
-    background-image: url("../img/deerSillohette.jpg");
-    background-position: bottom;
-}
-
-.silverwaldSecondPic{
-    background-image: url("../img/motel-room.jpg");
-}
-
- .silverwaldThirdPic{
-    background-image: url("../img/books.jpg");
- }
-
- .tranmereSecondPic{
-    background-image: url("../img/guardian-inn.jpg");
- }
-
- .tranmereThirdPic{
-    background-image: url("../img/wine.jpg");
- }
-
- .deepwickThirdPic{
-    background-image: url("../img/DeepwickRiver.jpg");
- }
-
- .norhurstSecondPic{
-    background-image: url("../img/norhurstSecondPic.jpg");
- }
-
- .norhurstThirdPic{
-    background-image: url("../img/norhurstThirdPic.jpg");
- }
-
- .xindareThirdPic{
-    background-image: url("../img/xindareThirdPic.jpg");
- }
-
- .lnaareSecondPic{
-    background-image: url("../img/lnaareSecondPic.jpg");
- }
-
- .lnaareThirdPic{
-    background-image: url("../img/lnaareThirdPic.jpg");
- }
-
-/*Settlements page*/
-
-/*cards*/
+/*Link Cards*/
 
 .townCards{
     display: flex;
@@ -369,34 +289,7 @@ footer{
 h2.lightCard{
     color: var(--main-dark);
 }
-.shadowspellCard{
-    background-image: url("../img/shadowspell.jpg");
-}
-.fairedgeCard{
-    background-image: url("../img/City.jpg");
-}
-.tranmereCard{
-    background-image: url("../img/tranmere.jpg");
-}
-.silverwaldCard{
-    background-image: url("../img/silverwald.jpg");
-}
-.deepwickCard{
-    background-image: url("../img/waterfall.jpg");
-}
-.norhurstCard{
-    background-image: url("../img/norhurst.jpg");
-}
-.xindareCard{
-    background-image: url("../img/xindare.jpg");
-}
-.lnaareCard{
-    background-image: url("../img/mountain.jpg");
-}
 
-.deepwickForest{
-    background-image: url(../img/ForestSplash.jpg);
-}
 
 /*articles*/
 
@@ -529,7 +422,111 @@ select{
     background-color: var(--main-darker);
 }
 
-/*Reactiveness*/
+/*Image tags*/
+
+.shadowspellCard{
+    background-image: url("../img/shadowspell.jpg");
+}
+.fairedgeCard{
+    background-image: url("../img/City.jpg");
+}
+.tranmereCard{
+    background-image: url("../img/tranmere.jpg");
+}
+.silverwaldCard{
+    background-image: url("../img/silverwald.jpg");
+}
+.deepwickCard{
+    background-image: url("../img/waterfall.jpg");
+}
+.norhurstCard{
+    background-image: url("../img/norhurst.jpg");
+}
+.xindareCard{
+    background-image: url("../img/xindare.jpg");
+}
+.lnaareCard{
+    background-image: url("../img/mountain.jpg");
+}
+
+.deepwickForest{
+    background-image: url(../img/ForestSplash.jpg);
+}
+.medievilCity{
+    background-image: url("../img/City.jpg");
+ }
+
+ .waterfallPic{
+    background-image: url("../img/waterfall.jpg");
+ }
+
+ .overgrownCastle{
+    background-image: url("../img/overgrown-castle.jpg");
+ }
+ 
+.tranmereStreet{
+    background-image: url("../img/tranmere-street.jpg");
+}
+
+ .shadowspellSecondPic{
+    background-image: url("../img/marketplace.jpg");
+ }
+
+ .shadowspellThirdPic{
+    background-image: url("../img/shadowspell_3.jpg");
+    background-position: 50% 80%;
+ }
+
+ .fairedgeSecondPic{
+    background-image: url("../img/hunting-lodge.jpg");
+ }
+
+.fairedgeThirdPic{
+    background-image: url("../img/deerSillohette.jpg");
+    background-position: bottom;
+}
+
+.silverwaldSecondPic{
+    background-image: url("../img/motel-room.jpg");
+}
+
+ .silverwaldThirdPic{
+    background-image: url("../img/books.jpg");
+ }
+
+ .tranmereSecondPic{
+    background-image: url("../img/guardian-inn.jpg");
+ }
+
+ .tranmereThirdPic{
+    background-image: url("../img/wine.jpg");
+ }
+
+ .deepwickThirdPic{
+    background-image: url("../img/DeepwickRiver.jpg");
+ }
+
+ .norhurstSecondPic{
+    background-image: url("../img/norhurstSecondPic.jpg");
+ }
+
+ .norhurstThirdPic{
+    background-image: url("../img/norhurstThirdPic.jpg");
+ }
+
+ .xindareThirdPic{
+    background-image: url("../img/xindareThirdPic.jpg");
+ }
+
+ .lnaareSecondPic{
+    background-image: url("../img/lnaareSecondPic.jpg");
+ }
+
+ .lnaareThirdPic{
+    background-image: url("../img/lnaareThirdPic.jpg");
+ }
+
+/*Responsiveness*/
 
  @media only screen and (max-width: 1500px){
     .splashBanner h1{
