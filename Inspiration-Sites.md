@@ -23,3 +23,9 @@ View here: https://www.visitbritain.com/en
 - Smaller Number of Main links - I liked how this website had less initial buttons to click, which avoids information overwhelm for newcomers to the page.
 ### Things I didn't like
 - Video splash screen - It made the experience a little disorienting with all the movement
+## What I used
+- I rounded te edges of many of my images and buttons like the Australia site
+- I used a stationary splash screen like the Britain website
+- I used a CSS zoom animation on my navigation cards like the New Zealand site
+- I implemented a back to top button like the Australia site
+- I made sure there were less aggressive amounts of information to avoid the overwhelm problem I noticed in my inspiration sites
