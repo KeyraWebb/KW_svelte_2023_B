@@ -4,7 +4,7 @@ This is a website project created for BIT Web 1 in Semester two of 2023. It is a
 
 All photos are from unsplash.com
 
-##Current features
+## Current features
 - Multiple pages of articles about various locations and topics for users to explore
 - CSS animated cards at the top of the article pages for ease of navigation
 - Pop out navigation bar at the top of the site for navigation purposes
