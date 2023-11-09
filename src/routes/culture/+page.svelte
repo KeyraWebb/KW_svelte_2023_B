@@ -1,3 +1,7 @@
+<script>
+    import BookingButton from "../../lib/components/BookingButton.svelte"
+</script>
+
 <div class = "article">
     <h1>Culture</h1>
     <div class = "infoGrid">
@@ -16,4 +20,5 @@
             <p>Vivamus gravida aliquam commodo. Nullam tristique fringilla imperdiet. Praesent in mattis dolor. Cras eget lacus vitae nibh pretium rhoncus. Vivamus elementum faucibus eros sit amet vehicula. Praesent lacinia neque scelerisque sapien vulputate, eu fringilla risus consectetur. Nam quis justo mauris.</p>
         </div>
     </div>
+    <BookingButton/>
 </div>
