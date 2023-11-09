@@ -1,4 +1,4 @@
-# Visit Lenturé
+# Visit L'nturé
 
 This is a website project created for BIT Web 1 in Semester two of 2023. It is a fictional travel website based around a fantasy country that I created.
 
